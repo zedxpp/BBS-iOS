@@ -33,8 +33,8 @@ class Tool {
     static let userId = "userId"
 }
 
-let httpAdress = "http://0.0.0.0:8181/"
-//let httpAdress = "http://swift520.com:8181/"
+//let httpAdress = "http://0.0.0.0:8181/"
+let httpAdress = "http://swift520.com:8181/"
 
 func printLogFunc() {
     printLog(String())
